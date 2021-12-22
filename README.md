@@ -4,7 +4,7 @@ In this projects, I used frames from videos I took in different trips I had to 4
 
 * Uploaded and resized +4000 frames of videos from personal travels using OS and openCV.
 * Created custom tensors from the pictures using Pytorch (250 batches of 16 tensors).
-* Built convolutional neural networks (2 CNNs and 3 Linears) to predict the location of the video based on its frames.
+* Built convolutional neural networks (2 CNNs and 3 Linears) to identigy the location images.
 * Acheived 98.31 % accuracy on training set and 96.5 on testing set.
 * Visualized a bacth of testing data with Matplotlib and Mathematical methods.
 
