@@ -19,7 +19,6 @@ In this projects, I used frames from videos I took in different trips I had to 4
   3. Penang island, Malaysia. A breathtaking sunset from the roof of a 34 floor modern residential building.
   4. Istanbul, Turkey. A 360° view of the 8th wonder of the world, Hagia Sophia. 
 
-
 # Data preparation
 * Converted four videos to pictures frame by frame.
 * Uploaded and resized the pictures for unifromity.
@@ -29,6 +28,9 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * Mean Absolute Error: 0.161
 * Accuracy: 0.84
 ###### Decision tree:
+###### Decision tree
+###### Decision tree###### Decision tree
+###### Decision tree###### Decision tree
 * Mean Absolute Error: 0.062
 * Accuracy: 0.94
 ###### Support vector machine:
