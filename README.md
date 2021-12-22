@@ -29,7 +29,7 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * 2x Pooling layers
 * 3x Linear neurons
 ###### Hyper parameters:
-# Results:
+# Model Evaluation:
 ###### Decision tree###### Decision tree
 ###### Decision tree###### Decision tree
 * Mean Absolute Error: 0.062
