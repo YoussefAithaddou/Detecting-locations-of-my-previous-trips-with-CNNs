@@ -25,8 +25,9 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * Created separate training and testing sets.
 # CNN architecture:
 ###### Model layers:
-* Mean Absolute Error: 0.161
-* Accuracy: 0.84
+* 2x CNNs
+* 2x Pooling layers
+* 3x Linear neurons
 ###### Hyper parameters:
 # Results:
 ###### Decision tree###### Decision tree
