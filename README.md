@@ -23,12 +23,12 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * Converted four videos to pictures frame by frame.
 * Uploaded and resized the pictures for unifromity.
 * Created separate training and testing sets.
-# Classifcation models:
-###### Logistic regression:
+# CNN architecture:
+###### Model layers:
 * Mean Absolute Error: 0.161
 * Accuracy: 0.84
-###### Decision tree:
-###### Decision tree
+###### Hyper parameters:
+# Results:
 ###### Decision tree###### Decision tree
 ###### Decision tree###### Decision tree
 * Mean Absolute Error: 0.062
