@@ -2,15 +2,16 @@
 
 In this projects, I used frames from videos I took in different trips I had to 4 different countries. The goal is to create a deep neural network to predict the location based on frames from a certain video.
 
-* Scraped over 500 pages of reviews and ratings from RotenTomatoes.com for the movie Mortal Kombat 2021 using python and selenium.
-* Cleaned and converted data into a matrix of token counts with the help of sklearn's CountVectorizer.
-* Optimized Naive-Bayes multiclass classifier using GridsearchCV to choose the optimal parameters.
-* Classified data and predicted the movie ratings based on the written reviews.
+* Uploaded and resized +4000 frames of videos from personal travels using OS and openCV.
+* Created custom tensors from the pictures using Pytorch (250 batches of 16 tensors).
+* Built convolutional neural networks (2 CNNs and 3 Linears) to predict the location of the video based on its frames.
+* Acheived 98.31 % accuracy on training set and 96.5 on testing set.
+* Visualized a bacth of testing data with Matplotlib and Mathematical methods.
 
 # Resources Used
 * Python Version: 3.7
-* Packages: pandas, numpy, sklearn, matplotlib, seaborn, selenium.
-* ChromeDriver 95.0.4638.10 [download](https://chromedriver.chromium.org/downloads).
+* CUDA Toolkit 11.5.119 
+* Packages and Libraries: pandas, numpy, matplotlib, pytorch, openCV, OS, matplotlib.
 # Data used
 * Videos from personal previous travels of 4 locations:
   1. Bali, Indonesi. Video of a man cutting open a fresh cocunuts in the amazing coast of the island.
@@ -20,11 +21,9 @@ In this projects, I used frames from videos I took in different trips I had to 4
 
 
 # Data preparation
-* Removed missing values.
-* Sampled data for analysis and visualization.
-* We visualize the correlation between attributes:
-![image 1](https://github.com/YoussefAithaddou/Predcition-of-Airline-Passengers-Satisfaction/blob/main/Correlation%20Matrix.png)
-* SVM is a slow algorithm, thus we used a sample of 5000 rows from the original data as opposed to 100.000 samples sued for the logistic regression and Decison tree models.
+* Converted four videos to pictures frame by frame.
+* Uploaded and resized the pictures for unifromity.
+* Created separate training and testing sets.
 # Classifcation models:
 ###### Logistic regression:
 * Mean Absolute Error: 0.161
