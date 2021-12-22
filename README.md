@@ -6,7 +6,7 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * Created custom tensors from the pictures using Pytorch (250 batches of 16 tensors).
 * Built convolutional neural networks (2 CNNs and 3 Linears) to identigy the location images.
 * Acheived 98.31% accuracy on training set and 96.5% on testing set.
-* Visualized a bacth of testing data with Matplotlib and Mathematical methods.
+* Visualized a batch of testing data with Matplotlib and Mathematical methods.
 
 # Resources Used
 * Python Version: 3.7
