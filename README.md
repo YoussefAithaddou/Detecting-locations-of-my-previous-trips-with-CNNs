@@ -36,7 +36,7 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * Accuracy on training set is 98.28 %
 * Accuracy on testing set is 93.50 %
 # Sample visualization:
-* I used a batch of test data to asses how the model predict the location of each frame:
+* I used a batch of test data (4 images from each loacation) to asses how the model predict the location of each frame:
 
 ![image 2](https://github.com/YoussefAithaddou/CNN-to-predict-locations-of-my-previous-trips/blob/main/result%20sample.png)
 
