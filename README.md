@@ -41,4 +41,4 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * Mean Absolute Error: 0.092
 * Accuracy: 0.91
 
-![image 2](https://github.com/YoussefAithaddou/CNN-to-predict-locations-of-my-previous-trips/blob/main/CNN%20my%20travel%20pictures.ipynb)
+![image 2](https://github.com/YoussefAithaddou/CNN-to-predict-locations-of-my-previous-trips/blob/main/result%20sample.png)
