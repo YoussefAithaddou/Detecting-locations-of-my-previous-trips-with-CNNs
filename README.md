@@ -24,21 +24,20 @@ In this projects, I used frames from videos I took in different trips I had to 4
 * Uploaded and resized the pictures for unifromity.
 * Created separate training and testing sets.
 # CNN architecture:
+![image 1](https://github.com/YoussefAithaddou/CNN-to-predict-locations-of-my-previous-trips/blob/main/model%20info.PNG)
 ###### Model layers:
 * 2x CNNs
 * 2x Pooling layers
 * 3x Linear neurons
 ###### Hyper parameters:
-* Batch size:
-* Epochs:
-* 
+* Batch size: 16
+* Epochs: 3
 # Model Evaluation:
-###### Decision tree###### Decision tree
-###### Decision tree###### Decision tree
-* Mean Absolute Error: 0.062
-* Accuracy: 0.94
-###### Support vector machine:
-* Mean Absolute Error: 0.092
-* Accuracy: 0.91
+* Accuracy on training set is 98.28 %
+* Accuracy on testing set is 93.50 %
+# Sample visualization:
+* I used a batch of test data to asses how the model predict the location of each frame:
 
 ![image 2](https://github.com/YoussefAithaddou/CNN-to-predict-locations-of-my-previous-trips/blob/main/result%20sample.png)
+
+* This model acheived a high accuracy rate with a small training sets due to the fact that all pictures are relatively similar to each other (frames of the same video). In this particular sample, the model manages to accurately identify each location the frames belong to. That is, on average we can accurately identify pictures at a ratio of 14.96 frames in each batch of 16.
