@@ -1,4 +1,4 @@
-# CNN-to-predict-locations-of-my-previous-trips
+# Detecting-locations-of-my-previous-trips-using-CNNs
 
 In this project, I used frames from videos I took in different trips I had to 4 different countries. The goal is to create a deep neural network to predict the location based on frames from a certain video.
 
