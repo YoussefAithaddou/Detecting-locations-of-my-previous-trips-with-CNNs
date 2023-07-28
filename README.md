@@ -12,7 +12,7 @@ In this project, I used frames from videos I took in different trips I had to 4 
 # Resources Used
 * Python Version: 3.7
 * CUDA Toolkit 11.5.119 
-* Packages and Libraries: pandas, numpy, matplotlib, pytorch, openCV, OS, matplotlib.
+* Packages and Libraries: pandas, numpy, matplotlib, pytorch, openCV, matplotlib.
 # Data used
 * Videos from personal previous travels of 4 locations:
   1. Bali, Indonesia. Video of a man cutting open a fresh coconut in the amazing coast of the island.
